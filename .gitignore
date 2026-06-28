@@ -1,4 +1,10 @@
 env
 venv
 .env
-e_commerce_chatbot.egg-info
+*.egg-info
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
