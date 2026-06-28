@@ -1,7 +1,13 @@
 langchain_astradb
 pandas
-dotenv
 langchain_google_genai
+fastapi 
+uvicorn 
+python-multipart
+jinja2
+python-dotenv 
+langchain 
+langchain_core 
 
 # local packages 
 -e .
